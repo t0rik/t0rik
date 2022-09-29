@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @t0rik
 - 👀 I’m interested in devops
 - 🌱 I’m currently learning python
+- Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
