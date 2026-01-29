@@ -2,7 +2,7 @@
 
 🌟 **System Administrator & Software Engineer**  
 💻 Linux | 🪟 Windows Server | 🐍 Python | 🐚 Bash  
-🐳 Docker | ☁️ GCP | ☁️ AWS | ☁️ Azure  
+🐳 Docker | ☁️ GCP | ☁️ AWS | ☁️ Azure  | N8n
 
 ---
 
