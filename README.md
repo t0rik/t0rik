@@ -2,7 +2,7 @@
 
 🌟 **System Administrator & Software Engineer**  
 💻 Linux | 🪟 Windows Server | 🐍 Python | 🐚 Bash  
-🐳 Docker | ☁️ GCP | ☁️ AWS | ☁️ Azure  | N8n
+🐳 Docker | ☁️ GCP | ☁️ AWS | ☁️ Azure  | N8n | Networking
 
 ---
 
@@ -30,6 +30,7 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+
 
 ---
 
