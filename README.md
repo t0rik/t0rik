@@ -41,4 +41,4 @@
 
 ---
 
-![t0rik's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0rik&show_icons=true&theme=tokyonight)
+
