@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm t0rik!
 
 🌟 **System Administrator & Software Engineer**  
-💻 Linux | 🪟 Windows Server | 🐍 Python | 🐚 Bash  
+💻 Linux | 🪟 Windows Server | 🐍 Python | 🐚 Bash | Go 
 🐳 Docker | ☁️ GCP | ☁️ AWS | ☁️ Azure  | N8n | Networking
 
 ---
